@@ -1,0 +1,11 @@
+#main{
+    margin-top: 200px;
+    margin-left: 500px;
+}
+body{
+    background-color: aqua;
+}
+#main1{
+    border: 2px solid blue;
+    width: 200px;
+}
